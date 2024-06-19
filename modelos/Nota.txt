@@ -1,0 +1,7 @@
+Contendra archivos
+	1.Archivos php con instrucciones para 
+		1.1.Insertar
+		1.2.Editar
+		1.3.Eliminar
+		1.4.Listar
+		1.5.Buscar registros de las diferentes tablas
