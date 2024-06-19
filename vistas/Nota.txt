@@ -1,0 +1,4 @@
+Contendra archivos
+	1.Interfaces Html
+	2.Archivos JavaScript de consultas dinamicas
+	3.reportes
