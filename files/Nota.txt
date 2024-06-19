@@ -1,0 +1,4 @@
+Contendra archivos
+	1.Archivos cargados por el usuario al sistema por ej:
+		1.1.Imagenes jpg,png,gif
+		1.2.Archivos Pdf

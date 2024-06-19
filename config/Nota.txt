@@ -1,0 +1,3 @@
+Contendra archivos
+	1.Archivos php de configuración general
+	2.Archivos php de conexión a la base de datos

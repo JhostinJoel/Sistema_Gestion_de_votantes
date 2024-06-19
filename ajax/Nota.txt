@@ -1,0 +1,2 @@
+Contendra archivos
+	1.Archivos php que retornan valores a las peticiones ajax que las referencien
